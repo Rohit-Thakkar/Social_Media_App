@@ -9,11 +9,27 @@ Phantom Friends is a social media platform developed using the MERN stack (Mongo
 
 ## Screenshots (will be added soon)
 
-![Screenshot 1](Screenshots/1.png)
+![Screenshot 1](Screenshots/2.jpeg)
 *Screenshot 1: Example of Feed System*
 
-![Screenshot 2](Screenshots/2.png)
-*Screenshot 2: Live Chat Rooms*
+![Screenshot 2](Screenshots/1.jpeg)
+*Screenshot 2: Upload an image*
+
+![Screenshot 3](Screenshots/3.jpeg)
+*Screenshot 3: Example of A Chat Room*
+
+![Screenshot 4](Screenshots/4.jpeg)
+*Screenshot 4:  Example of A Chat Lobby (Shows different chat rooms to navigate to a chat room)*
+
+![Screenshot 5](Screenshots/5.jpeg)
+*Screenshot 5: Example of Reminders/Lists System*
+
+![Screenshot 6](Screenshots/6.jpeg)
+*Screenshot 6:  Example of Bookmarks Page of a user*
+
+![Screenshot 7](Screenshots/7.jpeg)
+*Screenshot 3: Example of A Profile Page*
+
 
 ## Functionalities
 
@@ -34,10 +50,13 @@ Phantom Friends is a social media platform developed using the MERN stack (Mongo
 - Users can create public or private chat rooms based on their preferences.
 - Real-time messaging functionality ensures instant communication between users within the chat rooms.
 
-## Additional Features (Optional)
+### 5. Reminders Lists
+- Phantom Friends has a lists page where a user can add/remove their To Do Tasks.
+
+## Additional Features 
 - User Authentication: Implement secure user authentication using Firebase Authentication or JWT.
 - Notifications: Notify users about new followers, mentions, or other relevant activities.
-- Search Functionality: Enable users to search for friends, posts, or topics of interest.
+- Search Functionality: Enable users to search for friends, posts, or topics of interest. 
 - User Profiles: Allow users to customize their profiles, including profile pictures, bios, and other personal information.
 
 ## Conclusion
